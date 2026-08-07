@@ -82,11 +82,6 @@ section.block h2::before {
   border: 1px solid var(--border);
   background: #000;
 }
-#mcmc-canvas-wrap canvas {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
 .viz-controls {
   display: flex;
   gap: 0.7rem;
@@ -149,8 +144,8 @@ section.block h2::before {
   plain text, it won't inherit Talen's colors.
 */
 .pill[data-pill="python"] { --pill-color: #3ef2a1; }
-.pill[data-pill="cpp"] { --pill-color: #4d8bff; }
-.pill[data-pill="cuda"] { --pill-color: #ff5cb3; }
+.pill[data-pill="c"] { --pill-color: #4d8bff; }
+.pill[data-pill="java"] { --pill-color: #ff5cb3; }
 .pill[data-pill="react"] { --pill-color: #ffd23f; }
 .pill[data-pill="oss"] { --pill-color: #33d9c1; }
 .pill[data-pill="bayes"] { --pill-color: #a56dff; }
