@@ -1,5 +1,4 @@
 
-// Starter profile.js
 document.addEventListener("DOMContentLoaded",()=>{
 if(typeof HDTheme!=="undefined")HDTheme.init();
 const out=document.getElementById("output"),cmd=document.getElementById("cmd");
