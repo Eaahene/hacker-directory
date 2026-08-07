@@ -1,0 +1,17 @@
+{
+  "name": "Ayush Sharma",
+  "role": "Full Stack Developer & CSE Student",
+  "university": "Dr. A.P.J. Abdul Kalam Technical University",
+  "github": "A-y-u-s-h-29",
+  "bio": "Passionate Full Stack Developer building modern web applications with React, Next.js, Node.js, and AI. I enjoy creating clean UI/UX and solving real-world problems.",
+  "tags": [
+    "React",
+    "Next.js",
+    "Node.js",
+    "JavaScript",
+    "AI"
+  ],
+  "links": {
+    "website": "https://ayush-sharma-portfolio.netlify.app"
+  }
+}
